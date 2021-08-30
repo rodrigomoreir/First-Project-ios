@@ -26,4 +26,8 @@ An app named "I am Rich" was created which is just an app that shows the image o
 * How to add images in the app.
 * How to add icon and splash screen.
 
+## Prints
+
+<img src="app.png" width="200">
+
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
